@@ -12,7 +12,7 @@ public class Main {
         do {
             System.out.println("Kalkulator Bangunan \n");
             System.out.print("Panjang : ");
-            int panjang = scanner.nextInt(); // diameter
+            int panjang = sycanner.nextInt(); // diameter
             System.out.print("Lebar   : ");
             int lebar = scanner.nextInt();
             System.out.print("Tinggi  : ");

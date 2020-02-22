@@ -1,35 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c39f507a-0505-4fae-a969-494e9ed31878" name="Default Changelist" comment="" />
+    <list default="true" id="c868c85a-00e3-4f59-a1b3-7fdb234ecff7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectId" id="1XvILALYXqj3iZofV0m9njKwjGg" />
+  <component name="ProjectId" id="1Y9WZa8dF8BrnUNGiEluh5crJnR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/SeninSiang2/src" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Pertemuan3" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <module name="Task2-OOPConcept" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -45,50 +38,42 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c39f507a-0505-4fae-a969-494e9ed31878" name="Default Changelist" comment="" />
-      <created>1581920082439</created>
+      <changelist id="c868c85a-00e3-4f59-a1b3-7fdb234ecff7" name="Default Changelist" comment="" />
+      <created>1582355346053</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581920082439</updated>
+      <updated>1582355346053</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="127" key="#com.intellij.ide.util.MemberChooser" timestamp="1582354742188">
+    <state x="361" y="76" key="#Project_Structure" timestamp="1582355409096">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state x="574" y="127" key="#com.intellij.ide.util.MemberChooser/0.0.1536.832@0.0.1536.832" timestamp="1582354742188" />
-    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581947726535">
+    <state x="361" y="76" key="#Project_Structure/0.0.1536.832@0.0.1536.832" timestamp="1582355409096" />
+    <state x="549" y="159" key="FileChooserDialogImpl" timestamp="1582355389966">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.832@0.0.1536.832" timestamp="1581947726535" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1581945319685">
+    <state x="549" y="159" key="FileChooserDialogImpl/0.0.1536.832@0.0.1536.832" timestamp="1582355389966" />
+    <state width="490" height="704" key="GridCell.Tab.0.bottom" timestamp="1582355549370">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.832@0.0.1536.832" timestamp="1581945319685" />
-    <state width="375" height="704" key="GridCell.Tab.0.bottom" timestamp="1582354995517">
+    <state width="490" height="704" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1582355549370" />
+    <state width="490" height="704" key="GridCell.Tab.0.center" timestamp="1582355549370">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="375" height="704" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1582354995517" />
-    <state width="375" height="704" key="GridCell.Tab.0.center" timestamp="1582354995517">
+    <state width="490" height="704" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1582355549370" />
+    <state width="490" height="704" key="GridCell.Tab.0.left" timestamp="1582355549370">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="375" height="704" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1582354995517" />
-    <state width="375" height="704" key="GridCell.Tab.0.left" timestamp="1582354995517">
+    <state width="490" height="704" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1582355549370" />
+    <state width="490" height="704" key="GridCell.Tab.0.right" timestamp="1582355549370">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="375" height="704" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1582354995517" />
-    <state width="375" height="704" key="GridCell.Tab.0.right" timestamp="1582354995517">
+    <state width="490" height="704" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1582355549370" />
+    <state x="465" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1582355445343">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="375" height="704" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1582354995517" />
-    <state x="465" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1582354557441">
-      <screen x="0" y="0" width="1536" height="832" />
-    </state>
-    <state x="465" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.832@0.0.1536.832" timestamp="1582354557441" />
-    <state x="431" y="153" width="672" height="678" key="search.everywhere.popup" timestamp="1581947498236">
-      <screen x="0" y="0" width="1536" height="832" />
-    </state>
-    <state x="431" y="153" width="672" height="678" key="search.everywhere.popup/0.0.1536.832@0.0.1536.832" timestamp="1581947498236" />
+    <state x="465" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.832@0.0.1536.832" timestamp="1582355445343" />
   </component>
 </project>
