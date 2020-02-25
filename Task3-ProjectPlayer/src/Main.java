@@ -1,7 +1,5 @@
-import attack.ArrowAttack;
-import attack.SwordAttack;
-import defend.ArmorDefend;
-import defend.ShieldDefend;
+import attack.*;
+import defend.*;
 import fly.*;
 import sound.*;
 
@@ -29,7 +27,5 @@ public class Main {
         superDuck.sound();
         superDuck.attack();
         superDuck.defend();
-
-
     }
 }
