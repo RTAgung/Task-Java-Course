@@ -47,4 +47,6 @@ public class Duck {
     public void defend(){
         defendBehaviour.defend();
     }
+
+
 }
