@@ -47,12 +47,7 @@ public class InputDataMahasiswa extends JFrame {
         add(panelTombol, BorderLayout.SOUTH);
         panelTombol.add(bSimpan);
 
-        bSimpan.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                masukkanData();
-            }
-        });
+        bSimpan.addActionListener(e -> masukkanData());
     }
 
     private void masukkanData() {
@@ -69,7 +64,7 @@ public class InputDataMahasiswa extends JFrame {
             statement.close();
             connection.close();
         } catch (SQLException e){
-            JOptionPane.showMessageDialog(null, e.getMessage(),
+            JOptionPane.showMessageDialog(null, "Data Gagal Disimpan",
                     "Hasil", JOptionPane.ERROR_MESSAGE);
         } catch (ClassNotFoundException e){
             JOptionPane.showMessageDialog(null, "Driver Tidak Ditemukan!",
